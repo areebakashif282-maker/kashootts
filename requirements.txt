@@ -1,3 +1,5 @@
 streamlit==1.33.0
---index-url ...
+--index-url https://download.pytorch.org/whl/cpu
 torch==2.1.2
+torchaudio==2.1.2
+TTS==0.22.0
