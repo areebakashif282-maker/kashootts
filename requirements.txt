@@ -1,4 +1,1 @@
-streamlit
-TTS
-torch
-torchaudio
+libsndfile1
